@@ -12,6 +12,6 @@ end
 
 input_to_index(4)
 
-def move(board, index, user_marker = "X")
+def move(board, user_input, user_marker = "X")
   board[user_input.to_i] = user_marker
 end
