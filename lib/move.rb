@@ -13,3 +13,4 @@ end
 input_to_index(4)
 
 def move
+end
