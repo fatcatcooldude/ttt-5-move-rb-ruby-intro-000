@@ -12,4 +12,4 @@ end
 
 input_to_index(4)
 
-def move(gets.strip)
+def move
