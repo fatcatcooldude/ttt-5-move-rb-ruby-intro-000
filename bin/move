@@ -10,4 +10,4 @@ puts "Where would you like to go?"
 
 input_to_index(gets.strip)
 
-move(anything, 4, "X")
+move(anything, 0, "X")
