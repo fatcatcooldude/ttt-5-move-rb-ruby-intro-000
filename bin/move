@@ -10,4 +10,4 @@ puts "Where would you like to go?"
 
 input_to_index(gets.strip)
 
-move(board, user_input, user_marker = "X")
+move(board, gets.strip, user_marker = "X")
