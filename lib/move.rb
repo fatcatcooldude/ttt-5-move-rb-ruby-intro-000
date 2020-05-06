@@ -12,6 +12,6 @@ end
 
 input_to_index(4)
 
-def move(board, 1, "X")
+def move(board, 1.to_i, "X")
 
 end
